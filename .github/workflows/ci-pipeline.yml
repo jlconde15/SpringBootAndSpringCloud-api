@@ -14,8 +14,9 @@ jobs:
           java-version: 1.11
       - name: Build and test application
         run: mvn clean verify
-      - name: Deploy artifact
+      - name: Preparing artifact
         run: mkdir staging && cp target/*.jar staging
+      - name: Deploy artifact
         uses: actions/upload-artifact@v2
         with:
           name: Package
