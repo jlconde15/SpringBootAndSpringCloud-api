@@ -1,0 +1,11 @@
+com/example/core/product/ProductService.class
+com/example/product/ProductCompositeService.class
+com/example/core/recommendation/RecommendationService.class
+com/example/product/ReviewSummary.class
+com/example/core/review/ReviewService.class
+com/example/product/ServiceAddresses.class
+com/example/core/product/Product.class
+com/example/core/review/Review.class
+com/example/product/RecommendationSummary.class
+com/example/core/recommendation/Recommendation.class
+com/example/product/ProductAggregate.class

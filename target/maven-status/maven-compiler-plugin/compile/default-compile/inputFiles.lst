@@ -1,0 +1,11 @@
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/review/ReviewService.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/product/ProductAggregate.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/recommendation/RecommendationService.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/product/ProductCompositeService.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/product/Product.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/recommendation/Recommendation.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/review/Review.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/core/product/ProductService.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/product/RecommendationSummary.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/product/ReviewSummary.java
+/home/jose/Projects/Books/SpringBootAndSpringCloud/api/src/main/java/com/example/product/ServiceAddresses.java
